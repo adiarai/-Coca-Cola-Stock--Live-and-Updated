@@ -1,3 +1,8 @@
+![output_24_20](https://github.com/user-attachments/assets/26fdbc37-1c66-4e7b-a685-0b368fd6ee6c)
+![output_24_0](https://github.com/user-attachments/assets/d127a3aa-fdad-48a4-a139-d41d88676212)
+![output_10_1](https://github.com/user-attachments/assets/4ee7bf87-b9ac-4893-a74c-1084e53ee52c)
+![output_5_0](https://github.com/user-attachments/assets/5cc3a16e-4c41-42bb-88ed-c2bddbfbc7f6)
+![output_4_0](https://github.com/user-attachments/assets/dcbd2b51-e305-4bb8-85d9-5c0bfb22329a)
 Project Description: Coca-Cola Stock Price Analysis and Prediction
 This project focuses on analyzing and predicting the stock prices of Coca-Cola (Ticker: KO) using historical stock data and machine learning techniques. It aims to explore the stock’s past behavior, extract patterns through visualizations, and forecast future trends using regression models.
 
